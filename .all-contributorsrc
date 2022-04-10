@@ -1,0 +1,32 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "the",
+      "name": "Thomas Eichmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41003?v=4",
+      "profile": "https://www.thomaseichmann.com",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "All-Contributors_Test_Site",
+  "projectOwner": "seanpm2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
