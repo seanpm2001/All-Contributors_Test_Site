@@ -1,4 +1,7 @@
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
 # <projectName>
@@ -404,3 +407,23 @@ Version 2 (Coming soon)
 ### EOF
 
 ***
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.thomaseichmann.com"><img src="https://avatars.githubusercontent.com/u/41003?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas Eichmann</b></sub></a><br /><a href="https://github.com/seanpm2001/All-Contributors_Test_Site/commits?author=the" title="Code">💻</a> <a href="https://github.com/seanpm2001/All-Contributors_Test_Site/commits?author=the" title="Documentation">📖</a> <a href="#projectManagement-the" title="Project Management">📆</a> <a href="#security-the" title="Security">🛡️</a> <a href="#data-the" title="Data">🔣</a> <a href="#content-the" title="Content">🖋</a> <a href="#design-the" title="Design">🎨</a> <a href="#maintenance-the" title="Maintenance">🚧</a> <a href="#ideas-the" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
